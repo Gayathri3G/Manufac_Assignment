@@ -1,5 +1,10 @@
-# To run the project, execute the following commands in Command Prompt in sequence
+# Clone url
 
+https://github.com/Gayathri3G/Manufac_Assignment.git
+
+# To run the project, execute the following commands in Command Promptt, in the cloned folder directory
+
+'cd Manufac_Assignment'
 'yarn install'
 'yarn start'
 
